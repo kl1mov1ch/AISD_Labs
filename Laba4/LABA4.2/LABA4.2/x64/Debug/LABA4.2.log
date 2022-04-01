@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\БGTУ\АиСД\Laba4\LABA4.2\LABA4.2\Source.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\БGTУ\АиСД\Laba4\LABA4.2\LABA4.2\Source.cpp(61,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LABA4.2.vcxproj -> D:\БGTУ\АиСД\Laba4\LABA4.2\x64\Debug\LABA4.2.exe

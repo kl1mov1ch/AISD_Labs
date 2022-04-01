@@ -1,0 +1,6 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Laba4.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+D:\БGTУ\АиСД\Laba4\Laba4\Source.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\БGTУ\АиСД\Laba4\Laba4\Source.cpp(59,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\БGTУ\АиСД\Laba4\Laba4\Source.cpp(61,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laba4.vcxproj -> D:\БGTУ\АиСД\Laba4\x64\Debug\Laba4.1.exe
