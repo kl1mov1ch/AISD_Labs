@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\БGTУ\АиСД\LABA3\LABA3\LABA3\Source.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\БGTУ\АиСД\LABA3\LABA3\LABA3\Source.cpp(87,11): warning C4101: temp: неиспользованная локальная переменная
+D:\БGTУ\АиСД\LABA3\LABA3\LABA3\Source.cpp(153,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LABA3.vcxproj -> D:\БGTУ\АиСД\LABA3\LABA3\x64\Debug\LABA3.exe
